@@ -8,13 +8,11 @@
     <project path="vendor/xiaomi/redwood" name="No-more-panding/vendor_xiaomi_redwood" remote="gh" revision="afl-16" />
     <project path="vendor/xiaomi/sm8350-common" name="No-more-panding/vendor_xiaomi_sm8350-common" remote="gh" revision="afl-16" />
 
-    <project path="kernel/xiaomi/7325" name="Thereache/scarlet_xiaomi_sm7325" remote="gh" revision="staging" clone-depth="1" />
+    <project path="kernel/xiaomi/7325" name="Thereache/scarlet_xiaomi_sm7325" remote="gh" revision="staging-2" clone-depth="1" />
 
     <project path="hardware/xiaomi" name="No-more-panding/hardware_xiaomi" remote="gh" revision="16.0" />
-    <project path="vendor/oneplus/dolby" name="No-more-panding/vendor_oneplus_dolby" remote="gh" revision="main" />
-
-    <project path="vendor/xiaomi/redwood-miuicamera" name="No-more-panding/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="afl-16" />
     <project path="hardware/sony/timekeep" name="No-more-panding/hardware_sony_timekeep" remote="gh" revision="16.0" />
-  
+    <project path="vendor/oneplus/dolby" name="No-more-panding/vendor_oneplus_dolby" remote="gh" revision="afl-16" />
+    <project path="vendor/xiaomi/redwood-miuicamera" name="No-more-panding/vendor_xiaomi_redwood-miuicamera" remote="gh" revision="afl-16" />
     <project path="vendor/afterlife-priv" name="Thereache/vendor_lineage-priv_keys" remote="gh" revision="alf" />
 </manifest>
